@@ -1,0 +1,15 @@
+problem 1
+ques 1. block system call for date command 
+=> can't find answer yet
+ques 2. for firefox 
+=> can't find answer yet
+
+problem 2
+
+ques 1. create a directory without name from command line
+=> mkdir ' ' 
+we see the directory through GUI without any name.
+
+ques 2. create a directory with name "-okgoogle"
+=> mkdir -- "-okgoogle"
+this command make the directory with -okgoogle name
