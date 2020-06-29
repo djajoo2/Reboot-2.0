@@ -1,2 +1,2 @@
-*Ques. create a directory structure* 
+Ques. create a directory structure
 => mkdir -p a/{b/{g/k/reboot.txt,h/j/reboot.txt},c/{i/j/reboot.txt,j/l/reboot.txt},d/{f/l/reboot.txt,e/m/reboot.txt}}
