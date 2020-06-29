@@ -1,0 +1,34 @@
+Ques. share and files and folder 
+
+1. create two users name jack and Jill  from command line
+=>useradd jack
+  passwd jack
+=>useradd jill
+  passwd jill
+
+2. create all the data under home directory of each users 
+=>to create data of home directory of each users we need to login with that users
+
+3. login with jack user and create a file name  jack.txt using vim editor and write "hello jack"
+=>su jack
+  password:
+  vim jack.txt
+  then press 'i' for write
+  type "Hello Jack"
+  press 'esc'
+  for save and quit the file type ':wq'
+
+4. from jack user also create two directories name jack1 & jack2 
+=>mkdir jack1 jack2
+
+5. now login from Jill user and create a file. Jill.txt using vim editor and write "hey jiil"
+=>su jill
+  password:
+  vim jill.txt
+  then press 'i' for write
+  type "Hey jill"
+  press 'esc'
+  for save and quit the file type ':wq'
+
+6. from Jill also create two directoires named jill1 & jill2 
+=>mkdir jill1 jill2
